@@ -6,7 +6,7 @@ Furuta Pendulum is the classical control/RL problem and I would regard this as s
 
 
 
-|                                       PPO (MLP)                                       |                                    SAC + CfC                                     |
+|                                       PPO (MLP)                                       |                                    LNN + SAC                                  |
 | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | ![PPO stabilizing the pendulum](assets/ppo_stabilize.gif)                              | ![SAC+CfC stabilizing the pendulum](assets/sac_cfc_stabilize.gif)                 |
 
