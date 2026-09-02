@@ -1,4 +1,4 @@
-# Furuta Pendulum: PPO vs. SAC + Liquid Neural Network
+## SAC + Liquid Neural Network on Furuta Pendulum
 
 
 Furuta Pendulum is the classical control/RL problem and I would regard this as something similar to "Italian Opening" in Chess since learning and playing around with this can provide a lot of learning benefits. I have come across Liquid Neural Networks from one of the burmese NLP AI researchers and I am curious to know how it fares in RL/robotics applications. Therefore, I have developed a small-scale project to test the LNN+SAC policy in Furuta control and benmark its performance against well-proven PPO policy. For the simulation, I have developed a simple pendulum xml for easier prototyping.  
